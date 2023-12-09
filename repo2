@@ -1,0 +1,8 @@
+public class Rep2 {
+	
+	public String data() {
+	
+	return "repo2..";
+
+}
+}
